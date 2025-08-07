@@ -26,12 +26,4 @@ This project is a Python-based Resume Parser designed to automatically extract k
 | `regex (re)`   | Pattern matching for emails and phone numbers|
 | `pathlib`      | Validates file paths and extensions          |
 
----
 
-## 📦 Installation
-
-Install required libraries before running the script:
-
-```bash
-pip install pdfplumber python-docx spacy
-python -m spacy download en_core_web_sm
